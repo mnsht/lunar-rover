@@ -1,0 +1,1 @@
+{"version":3,"file":"main.a5b3decb61896b8efd3e.bundle.js","sources":["webpack:///./src/index.js"],"sourcesContent":["import React from 'react';\n\nexport const squared = num => num * num;\n\nexport default ({ number }) => <div>{squared(number)}</div>;\n"],"mappings":"AAAA","sourceRoot":""}
