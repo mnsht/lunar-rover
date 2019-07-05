@@ -1,6 +1,8 @@
 # Lunar Rover
 
-[![Build Status](https://travis-ci.org/mnsht/lunar-rover.svg?branch=master)](https://travis-ci.org/mnsht/lunar-rover)
+![Travis (.org)](https://img.shields.io/travis/mnsht/lunar-rover.svg?color=green)
+![npm](https://img.shields.io/npm/v/lunar-rover.svg?color=green)
+![GitHub](https://img.shields.io/github/license/mnsht/lunar-rover.svg?color=green)
 
 A small template for easily creating microlibraries and React components.
 
