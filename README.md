@@ -1,5 +1,7 @@
 # Lunar Rover
 
+[![Build Status](https://travis-ci.org/mnsht/lunar-rover.svg?branch=master)](https://travis-ci.org/mnsht/lunar-rover)
+
 A small template for easily creating microlibraries and React components.
 
 **Comes with the following features:**
