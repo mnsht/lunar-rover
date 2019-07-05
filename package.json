@@ -1,6 +1,6 @@
 {
   "name": "lunar-rover",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small template for easily creating microlibraries and React components",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
